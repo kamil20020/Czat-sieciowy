@@ -1,5 +1,5 @@
 # Czat sieciowy (02.2021)
-Bardzo prosta bazodanowa aplikacja typu klient-serwer umożliwiająca użytkownikowi wymianę tekstowych wiadomości z innymi użytkownikami w czasie rzeczywistym.
+Bardzo prosta bazodanowa aplikacja typu klient-serwer umożliwiająca użytkownikowi wymianę tekstowych wiadomości z innymi użytkownikami w czasie rzeczywistym. 
 
 ## Wymagania funkcjonalne:
 * Logowanie,
