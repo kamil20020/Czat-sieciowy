@@ -19,17 +19,27 @@ Aplikacja jest wielowątkowa i można wyróżnić następujące wątki: serwer, 
 # Zrzuty ekranu:
 
 Okno logowania:
-![Logowanie](img/logowanie.png "Logowanie")
+<p align="center" width="100%">
+    <img src="img/logowanie.png">
+</p>
 
 Zakładanie konta:
-![Rejestracja](img/rejestracja.png "Rejestracja")
+<p align="center" width="100%">
+    <img src="img/rejestracja.png">
+</p>
 
 Widok po zalogowaniu:
-![Widok po zalogowaniu](img/czat.png "Widok po zalogowaniu")
+<p align="center" width="100%">
+    <img src="img/czat.png">
+</p>
 
 W aplikacji jest zrealizowany mechanizm walidacji np. w przypadku nie wprowadzenia danych, zostanie wyświetlony adekwatny komunikat np.:
-![Walidacja danych](img/walidacja.png "Walidacja")
+<p align="center" width="100%">
+    <img src="img/walidacja.png">
+</p>
 
 W przypadku pomyślnego logowania albo rejestracji są wyświetlane odpowiednie komunikaty np.:
-![Pomyślne logowanie](img/sukces.png "Pomyślne logowanie")
+<p align="center" width="100%">
+    <img src="img/sukces.png">
+</p>
 
